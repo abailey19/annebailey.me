@@ -199,7 +199,6 @@ main p {
 }
 
 #interests .middle {
-  /* background: white; */
   transition: .5s ease;
   opacity: 0;
   position: absolute;
@@ -214,7 +213,6 @@ main p {
 }
 
 #interests .container:hover .image {
-  /* background-color: white; */
   opacity: 0.3;
 }
 
@@ -247,8 +245,6 @@ footer {
   height: 30vh;
   padding: 10px;
   display:inline-block;
-  /* display: flex;
-  flex-direction: column; */
   justify-content: space-around;
 }
 
